@@ -1,0 +1,4 @@
+dataset,macro_f1,micro_f1,macro_precision,micro_precision,macro_recall,micro_recall,fold
+validation,0.0,0.0,0.0,0.0,0.0,0.0,1
+validation,0.0,0.0,0.0,0.0,0.0,0.0,2
+validation,0.0,0.0,0.0,0.0,0.0,0.0,3

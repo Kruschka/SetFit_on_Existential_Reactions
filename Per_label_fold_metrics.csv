@@ -1,0 +1,25 @@
+fold,label,precision,recall,f1_score,support
+1,Meaninglessness,0.0,0.0,0.0,11.0
+1,Loneliness,0.0,0.0,0.0,8.0
+1,Death Anxiety,0.0,0.0,0.0,7.0
+1,Death Acceptance,0.0,0.0,0.0,3.0
+1,Identity Confusion,0.0,0.0,0.0,4.0
+1,Freedom Responsibility,0.0,0.0,0.0,2.0
+1,Engagement,0.0,0.0,0.0,3.0
+1,Solitude,0.0,0.0,0.0,4.0
+2,Meaninglessness,0.0,0.0,0.0,12.0
+2,Loneliness,0.0,0.0,0.0,7.0
+2,Death Anxiety,0.0,0.0,0.0,7.0
+2,Death Acceptance,0.0,0.0,0.0,4.0
+2,Identity Confusion,0.0,0.0,0.0,4.0
+2,Freedom Responsibility,0.0,0.0,0.0,3.0
+2,Engagement,0.0,0.0,0.0,2.0
+2,Solitude,0.0,0.0,0.0,4.0
+3,Meaninglessness,0.0,0.0,0.0,11.0
+3,Loneliness,0.0,0.0,0.0,8.0
+3,Death Anxiety,0.0,0.0,0.0,8.0
+3,Death Acceptance,0.0,0.0,0.0,4.0
+3,Identity Confusion,0.0,0.0,0.0,4.0
+3,Freedom Responsibility,0.0,0.0,0.0,2.0
+3,Engagement,0.0,0.0,0.0,2.0
+3,Solitude,0.0,0.0,0.0,4.0
